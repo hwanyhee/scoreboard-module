@@ -1,3 +1,4 @@
+//엔트리 포인트- 웹팩이 여기서부터 시작해서  모든.js .css.html을 컴파일해서 번들링
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
